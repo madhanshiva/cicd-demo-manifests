@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: mvmadhan/todo-app:32
+        image: mvmadhan/todo-app:3
         ports:
         - containerPort: 8000
